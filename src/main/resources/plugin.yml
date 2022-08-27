@@ -1,0 +1,6 @@
+name: Warden
+version: '${project.version}'
+main: me.xemu.warden.WardenPlugin
+api-version: 1.19
+authors: [ Warden ]
+description: Warden is the best area protection system.
